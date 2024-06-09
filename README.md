@@ -1,4 +1,6 @@
-## w <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXV2NXo1b2plZXo1OHllcnd2d3BnbnM5aml0bWZ1OTk1MWNzMGtpayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnexM9LwlwGu4Z1QnS/giphy.webp" width="40px"> Welcome!
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFweXpjdHd6MTh1aXh3d24xdmowNWpubDU4YWc2YXEzdTVyN3RrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy.webp" width="40px"> Welcome!
+
+
 <!--
 **GhostMasterSc/GhostMasterSc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
