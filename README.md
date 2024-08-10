@@ -1,5 +1,14 @@
-## Welcome!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
+## Welcome to My GitHub Page!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
 
+Explore a diverse range of repositories dedicated to solving complex challenges and advancing technical skills across various domains:
+
+* **Operation Problem Solving:** Dive into repositories that tackle real-world operational challenges. These projects focus on optimizing processes, improving efficiency, and implementing practical solutions to everyday business problems.
+
+* **LeetCode Solutions:** A collection of repositories featuring detailed solutions to a wide array of LeetCode problems. Each solution is crafted with a focus on clarity, efficiency, and adherence to best coding practices. Whether you're gearing up for technical interviews or honing your algorithmic skills, these repositories offer valuable resources.
+
+* **Machine Learning Applications:** Discover repositories showcasing machine learning projects that apply data-driven techniques to solve real-world issues. From predictive models to advanced natural language processing, these projects demonstrate how machine learning can be leveraged to address complex challenges.
+
+This GitHub page serves as a hub for learners, developers, and professionals who are passionate about problem-solving, coding, and machine learning. Feel free to explore the repositories, contribute to ongoing projects, and utilize the resources to advance your knowledge and skills.
 
 <!--
 **GhostMasterSc/GhostMasterSc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
