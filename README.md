@@ -1,5 +1,16 @@
 <div align="center">
 
+<a href="https://ghostmastersc.github.io/GhostMasterSc/">
+  <img src="assets/preview.png" alt="Tolunay Alankaya — ML/AI engineer. Click to open the live portfolio." width="100%">
+</a>
+
+### [🌐&nbsp; Open the live, interactive portfolio &nbsp;→](https://ghostmastersc.github.io/GhostMasterSc/)
+
+<sub>The page above is a preview — click it for the full site (light/dark, live links).</sub>
+
+<br/>
+<br/>
+
 # Tolunay Alankaya
 
 ### Machine Learning / AI Engineer · Data Scientist
