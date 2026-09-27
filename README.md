@@ -50,7 +50,7 @@ multi-node homelab from bare metal up — Linux, containers, and hypervisors as 
 
 I build end-to-end. These are self-designed, self-hosted systems — architecture, code, deploy and ops all mine.
 
-### 🏀 [Kukulitis](https://github.com/GhostMasterSc/Kukulitis) — full-stack fantasy-basketball analytics platform
+### 🏀 Kukulitis — full-stack fantasy-basketball analytics platform &nbsp;·&nbsp; 🔒 _private_
 A production-grade web app for ESPN head-to-head category leagues.
 
 - **Backend:** FastAPI · SQLAlchemy 2 · Alembic migrations · APScheduler · NumPy/SciPy
@@ -64,7 +64,7 @@ A production-grade web app for ESPN head-to-head category leagues.
 
 `FastAPI` · `React` · `TypeScript` · `SQLAlchemy` · `Docker` · `Tailscale`
 
-### 🐦 [Perry](https://github.com/GhostMasterSc/Perry) — cross-platform, privacy-first "save anything" app
+### 🐦 Perry — cross-platform, privacy-first "save anything" app &nbsp;·&nbsp; 🔒 _private_
 A digital source organizer that reads what you save and files it for you — with the AI running on *your* hardware.
 
 - **Monorepo:** `apps/mobile` (Expo / React Native, also web) · `apps/server` · `packages/core`
@@ -89,13 +89,13 @@ Deep-learning / reinforcement-learning for inventory control, packaged like prod
 > everything is **config-as-code**, versioned in git, and rebuildable from scratch.
 > This is where I get hands-on with **Linux, Docker, and hypervisors** every week.
 
-**[`jarvis`](https://github.com/GhostMasterSc/jarvis)** — the production server, as code.
-17 self-hosted services in **Docker Compose** (Jellyfin, the *arr* stack, Nextcloud, Home Assistant,
-Ghostfolio, Vikunja, Stirling-PDF and more), fronted by a homepage, driven by **systemd** units,
-kept healthy by custom **Bash** watchdogs (VPN-bound qBittorrent, Home-Assistant config sync).
-Secrets in gitignored `.env` files with committed `.env.example` templates; recovery runbooks in `docs/`.
+**The production server, as code** &nbsp;·&nbsp; 🔒 _private repo_.
+~17 self-hosted services in **Docker Compose** (media streaming, home automation, personal cloud,
+finance dashboards, task management and more), fronted by a homepage, driven by **systemd** units,
+kept healthy by custom **Bash** watchdogs. Secrets in gitignored `.env` files with committed
+`.env.example` templates; recovery runbooks in `docs/`.
 
-**[`homelab-lab`](https://github.com/GhostMasterSc/homelab-lab)** — the lab and the discipline.
+**The lab and the discipline** &nbsp;·&nbsp; 🔒 _private repo_.
 A project-based DevOps curriculum with a running **learning log** — every project ends with
 something still running, gets deliberately broken, and is documented like an incident write-up.
 
@@ -103,9 +103,9 @@ something still running, gets deliberately broken, and is documented like an inc
 
 | Machine | Role | Stack |
 |---|---|---|
-| **Jarvis** (ASUS ROG G14) | Always-on server | Ubuntu Server · Docker · systemd · Proxmox (planned) |
-| **Mark-I** (Beelink 5850U) | Virtualization lab | **KVM / QEMU / libvirt** · cloud-init · k3s |
-| **DXP4800 Pro** | NAS / storage | NFS · backups (restic) |
+| **Home server** | Always-on production server | Ubuntu Server · Docker · systemd · Proxmox (planned) |
+| **Virtualization node** | KVM lab / VM host | **KVM / QEMU / libvirt** · cloud-init · k3s |
+| **NAS** | Storage & backups | NFS · restic |
 
 </div>
 
@@ -180,8 +180,6 @@ encrypted backups and written disaster-recovery drills.
 | 2025 | ML / AI Engineer — LangChain/LangGraph agentic flows, Databricks ETL, Streamlit apps | WeFabricate, Eindhoven |
 | 2022–2025 | PhD Candidate & ML Engineer — Transformer/CNN/LSTM sales forecasting (+11% accuracy), deep-RL inventory control (+15% efficiency), an LLM+RAG OR assistant; containerized CI/CD | DAF Trucks × TU/e, Eindhoven |
 | 2022–2025 | Data Scientist & Researcher — explainable AI, AI workshops | AI Planner of the Future, Eindhoven |
-| 2020–2022 | Data Scientist & Researcher — hierarchical Bayesian models, survival analysis | Bilkent University, Ankara |
-| 2018–2020 | Data Science Internships — routing/scheduling optimization (MIP, metaheuristics), analytics | HAVELSAN · MITAS · Microsoft |
 
 ## 🎓 Education
 
