@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://ghostmastersc.github.io/GhostMasterSc/">
+<a href="https://ghostmastersc.github.io/">
   <img src="assets/preview.png" alt="Tolunay Alankaya — ML/AI engineer. Click to open the live portfolio." width="100%">
 </a>
 
-### [🌐&nbsp; Open the live, interactive portfolio &nbsp;→](https://ghostmastersc.github.io/GhostMasterSc/)
+### [🌐&nbsp; Open the live, interactive portfolio &nbsp;→](https://ghostmastersc.github.io/)
 
 <sub>The page above is a preview — click it for the full site (light/dark, live links).</sub>
 
